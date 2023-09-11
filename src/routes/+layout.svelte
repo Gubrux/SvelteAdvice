@@ -1,8 +1,7 @@
 <script>
 	import AdviceCard from "$lib/components/AdviceCard.svelte";
-import "../app.css";
+	import "../app.css";
 
 </script>
 
 <slot />
-<AdviceCard />
